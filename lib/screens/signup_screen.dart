@@ -73,7 +73,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 keyboardType: TextInputType.emailAddress,
                 decoration: const InputDecoration(
                   labelText: '.edu Email',
-                  hintText: 'yourname@purdue.edu',
+                  hintText: 'yourname@pacific.edu',
                   prefixIcon: Icon(Icons.email_outlined),
                   helperText: 'Must be a .edu address',
                 ),

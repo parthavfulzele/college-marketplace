@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      'Purdue Marketplace',
+                      'Pacific Marketplace',
                       style: TextStyle(
                         fontSize: 22,
                         fontWeight: FontWeight.bold,

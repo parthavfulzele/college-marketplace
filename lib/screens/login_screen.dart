@@ -72,7 +72,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 keyboardType: TextInputType.emailAddress,
                 decoration: const InputDecoration(
                   labelText: 'Email',
-                  hintText: 'yourname@purdue.edu',
+                  hintText: 'yourname@pacific.edu',
                   prefixIcon: Icon(Icons.email_outlined),
                 ),
               ),

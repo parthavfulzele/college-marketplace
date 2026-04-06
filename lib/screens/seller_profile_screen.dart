@@ -84,7 +84,7 @@ class SellerProfileScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 2),
                         const Text(
-                          'Purdue University',
+                          'University of the Pacific',
                           style: TextStyle(
                             fontSize: 13,
                             color: AppColors.textSecondary,
